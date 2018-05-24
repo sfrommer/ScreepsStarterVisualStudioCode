@@ -1,0 +1,1 @@
+//Place Snippets for Console in here (Copy-Pasting, nothing automated) if you like
